@@ -8,3 +8,18 @@ The race to net-zero emissions is on! As the world battles climate change and ri
 As a data analyst at NextEra Energy, one of the world’s leading renewable energy providers, ourr mission is to dive deep into global trends and uncover the story behind the surge in clean energy. Using real-world data, we'll explore how economic, demographic, and environmental factors (like GDP, population, carbon emissions, and policy influence) shape energy production around the world.
 
 So dig into the data, reveal the story behind the numbers, and create stunning visualizations that spark action! ⚡🌱
+
+**🌍 Exploratory Insights:**
+Alongside your model, include analysis addressing key trends:
+
+**1- Which regions are investing the most efficiently in renewables?**
+**2- How do economic, environmental, and policy factors relate to production levels?**
+
+**📊 Visual Storytelling:
+1- Create at least one compelling visualization to showcase a key insight about global renewable energy trends.**
+
+**✅ Checklist before publishing**
+
+Rename your workspace to make it descriptive of your work. N.B. you should leave the notebook name as notebook.ipynb.
+Remove redundant cells like the introduction to data science notebooks, so the workbook is focused on your story.
+Check that all the cells run without error.
