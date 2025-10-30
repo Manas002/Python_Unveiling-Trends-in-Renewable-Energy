@@ -1,6 +1,7 @@
 # Unveiling Trends in Renewable Energy 🌍🔋
 
-![The-Evolution-of-renewable-energy-technologies-opportunities-and-Challenges-1024x683](https://github.com/user-attachments/assets/c2b9f0d0-bf49-443c-8a30-483b592146ee)
+<img width="1122" height="668" alt="image" src="https://github.com/user-attachments/assets/1a7c8c4b-0940-4ac8-840e-4b4d521d62d4" />
+
 
 ## 📖 Background
 The race to net-zero emissions is on! As the world battles climate change and rising energy demands, renewable energy is taking center stage. Solar, wind, and hydro are revolutionizing the way we power our lives. Some countries are leading the charge, while others are falling behind. But which nations are making the biggest impact? What’s driving their success? And what lessons can we learn to accelerate the green energy transition?
@@ -18,8 +19,13 @@ Alongside your model, include analysis addressing key trends:
 **📊 Visual Storytelling:
 1- Create at least one compelling visualization to showcase a key insight about global renewable energy trends.**
 
-**✅ Checklist before publishing**
 
+**✅ Checklist before publishing**
 Rename your workspace to make it descriptive of your work. N.B. you should leave the notebook name as notebook.ipynb.
 Remove redundant cells like the introduction to data science notebooks, so the workbook is focused on your story.
 Check that all the cells run without error.
+
+
+![The-Evolution-of-renewable-energy-technologies-opportunities-and-Challenges-1024x683](https://github.com/user-attachments/assets/c2b9f0d0-bf49-443c-8a30-483b592146ee)
+
+
